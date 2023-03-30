@@ -1,0 +1,1 @@
+Financial Analysis /n--------------------- /nTotal Months: {total_months} /nTotal: ${total_PnL} /nAverage Change: {avg_PnL} /nGreatest Increase in Profits: {max_increase_date} (${max_increase}) /nGreatest Increase in Profits: {min_decrease_date} (${min_decrease}) /n
